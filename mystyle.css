@@ -1,0 +1,30 @@
+
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #efeee7;
+	background-image: url(subtle-aloe-green-texture-550x550.jpg);
+	line-height: 150%;
+	font-family: "Tahoma", Times, sans-serif; 
+	color: #000080;
+}
+
+h1 {
+	
+color: #000080;
+font-size: 2.5em; /* 40px/16=2.5em */;
+
+}
+
+
+.container {
+	width: auto;
+}
+
+.name {
+
+	font: 50px "Tahoma";
+	color: #5161ac;
+}
+
